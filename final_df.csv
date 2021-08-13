@@ -1,2 +1,2 @@
-site_id,overallRating,deliveryRating,supportRating,pricingRating,qualityRating
-flipkart.com,22.1% Out of 1535,15.7% Out of 115,10.0% Out of 30,0% Out of 0,23.8% Out of 21
+site_id,overallRating,site_overallRatingStar,deliveryRating,supportRating,pricingRating,qualityRating
+flipkart.com,Overall Rating 1.0 based on 1577 review comments.,1.0,20.2% Out of 119 reviews,12.9% Out of 31 reviews,33.3% Out of 15 reviews,20.0% Out of 20 reviews
